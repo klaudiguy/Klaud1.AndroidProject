@@ -1,8 +1,5 @@
 # Klaud1.AndroidProject
 
-На основе вашего кода, вот пример README для вашего проекта "Tetris" на Android с использованием Jetpack Compose:
-
-
 Tetris   
 
 Описание  
